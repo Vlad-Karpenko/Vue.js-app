@@ -1,6 +1,6 @@
 # vue-project
 
-> A Vue.js project
+> A Vue.js project "Build your cake"
 
 ## Build Setup
 
